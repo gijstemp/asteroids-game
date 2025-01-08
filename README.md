@@ -1,4 +1,3 @@
-```markdown
 # Asteroids Game
 
 ## Overview
@@ -111,4 +110,3 @@ Checks for:
 Developed with the **Pygame** library for building 2D games in Python.
 
 Enjoy playing Asteroids! 🚀
-```
